@@ -20,5 +20,7 @@ print("Even numbers:", even_numbers)
 print("--------")
 
 
-
+print("THE PROGRAM WILL SHUT DOWN NOW")
+print("THE PROGRAM WILL SHUT DOWN NOW")
+print("THE PROGRAM WILL SHUT DOWN NOW")
 
