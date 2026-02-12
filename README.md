@@ -1,3 +1,3 @@
 # lazygit
 
-Det är är readmen, den är väldigt viktig
+Det är är readmen, den är väldigt kort
